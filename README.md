@@ -5,8 +5,3 @@ The following files were written and run in Visual Studio 2022, as well as in Sm
 
 For cs32 the cs31 code was provided. The goal for updating it for cs32 was to add the class History ( history.h and history.cpp ),
 and integrate that function into 
-
-## Table of Contents
-
-===WIP===
-
